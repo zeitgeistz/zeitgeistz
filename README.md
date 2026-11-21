@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/rack-banner.webp" alt="Three graphite rack servers with a single green status light" width="100%">
+  <img src="assets/zeitgeistz-banner.webp" alt="zeitgeistz" width="100%">
 </p>
 
 <h1 align="center">Murad</h1>
