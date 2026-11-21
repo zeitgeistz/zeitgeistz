@@ -31,10 +31,11 @@ I run Windows and Linux servers, manage Active Directory and VMware, and script 
 
 | Area | Tools |
 |:--|:--|
-| **Infrastructure & monitoring** | ![Windows Server & AD](https://img.shields.io/badge/-Windows%20Server%20%26%20AD-181818?style=flat-square&logo=windows&logoColor=F5EFE0) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-181818?style=flat-square&logo=ubuntu&logoColor=F5EFE0) ![VMware](https://img.shields.io/badge/-VMware-181818?style=flat-square&logo=vmware&logoColor=F5EFE0) ![Veeam](https://img.shields.io/badge/-Veeam-181818?style=flat-square&logo=veeam&logoColor=F5EFE0) ![Nginx](https://img.shields.io/badge/-Nginx-181818?style=flat-square&logo=nginx&logoColor=F5EFE0) ![Prometheus](https://img.shields.io/badge/-Prometheus-181818?style=flat-square&logo=prometheus&logoColor=F5EFE0) ![Grafana](https://img.shields.io/badge/-Grafana-181818?style=flat-square&logo=grafana&logoColor=F5EFE0) |
+| **Infrastructure** | ![Windows Server & AD](https://img.shields.io/badge/-Windows%20Server%20%26%20AD-181818?style=flat-square&logo=windows&logoColor=F5EFE0) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-181818?style=flat-square&logo=ubuntu&logoColor=F5EFE0) ![VMware](https://img.shields.io/badge/-VMware-181818?style=flat-square&logo=vmware&logoColor=F5EFE0) |
 | **Automation & CI** | ![PowerShell](https://img.shields.io/badge/-PowerShell-181818?style=flat-square&logo=powershell&logoColor=F5EFE0) ![Python](https://img.shields.io/badge/-Python-181818?style=flat-square&logo=python&logoColor=F5EFE0) ![Bash](https://img.shields.io/badge/-Bash-181818?style=flat-square&logo=gnubash&logoColor=F5EFE0) ![Docker](https://img.shields.io/badge/-Docker-181818?style=flat-square&logo=docker&logoColor=F5EFE0) ![Git](https://img.shields.io/badge/-Git-181818?style=flat-square&logo=git&logoColor=F5EFE0) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-181818?style=flat-square&logo=githubactions&logoColor=F5EFE0) |
-| **Web development** | ![JavaScript](https://img.shields.io/badge/-JavaScript-181818?style=flat-square&logo=javascript&logoColor=F5EFE0) ![TypeScript](https://img.shields.io/badge/-TypeScript-181818?style=flat-square&logo=typescript&logoColor=F5EFE0) ![Node.js](https://img.shields.io/badge/-Node.js-181818?style=flat-square&logo=nodedotjs&logoColor=F5EFE0) ![React](https://img.shields.io/badge/-React-181818?style=flat-square&logo=react&logoColor=F5EFE0) ![Next.js](https://img.shields.io/badge/-Next.js-181818?style=flat-square&logo=nextdotjs&logoColor=F5EFE0) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-181818?style=flat-square&logo=tailwindcss&logoColor=F5EFE0) |
-| **APIs & data** | ![Express](https://img.shields.io/badge/-Express-181818?style=flat-square&logo=express&logoColor=F5EFE0) ![FastAPI](https://img.shields.io/badge/-FastAPI-181818?style=flat-square&logo=fastapi&logoColor=F5EFE0) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181818?style=flat-square&logo=postgresql&logoColor=F5EFE0) ![Redis](https://img.shields.io/badge/-Redis-181818?style=flat-square&logo=redis&logoColor=F5EFE0) ![Prisma](https://img.shields.io/badge/-Prisma-181818?style=flat-square&logo=prisma&logoColor=F5EFE0) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-181818?style=flat-square&logo=sqlalchemy&logoColor=F5EFE0) |
+| **Systems** | ![Rust](https://img.shields.io/badge/-Rust-181818?style=flat-square&logo=rust&logoColor=F5EFE0) |
+| **Web development** | ![TypeScript](https://img.shields.io/badge/-TypeScript-181818?style=flat-square&logo=typescript&logoColor=F5EFE0) ![JavaScript](https://img.shields.io/badge/-JavaScript-181818?style=flat-square&logo=javascript&logoColor=F5EFE0) ![Node.js](https://img.shields.io/badge/-Node.js-181818?style=flat-square&logo=nodedotjs&logoColor=F5EFE0) ![Next.js](https://img.shields.io/badge/-Next.js-181818?style=flat-square&logo=nextdotjs&logoColor=F5EFE0) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181818?style=flat-square&logo=postgresql&logoColor=F5EFE0) ![Prisma](https://img.shields.io/badge/-Prisma-181818?style=flat-square&logo=prisma&logoColor=F5EFE0) |
 
 <br>
 
@@ -42,7 +43,7 @@ I run Windows and Linux servers, manage Active Directory and VMware, and script 
 
 ### [zeit-claude-skills](https://github.com/zeitgeistz/zeit-claude-skills)
 
-Claude Code skills with a shared `/zeit-` prefix. They run project checks, review code, audit security, debug issues, and prepare releases.
+Claude Code skills with a shared `/zeit:` command prefix. They run project checks, review code, audit security, debug issues, and prepare releases.
 
 `Claude Code` · `Skills` · `Security`
 
