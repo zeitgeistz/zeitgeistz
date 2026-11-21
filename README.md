@@ -46,7 +46,7 @@ Claude Code skills with a shared `/zeit-` prefix. They run project checks, revie
 
 `Claude Code` · `Skills` · `Security`
 
-### [ServiceDesk](https://github.com/zeitgeistz/servicedesk/tree/main/src)
+### [ServiceDesk](https://github.com/zeitgeistz/servicedesk)
 
 A multi-tenant IT support app that brings ticket queues, SLA tracking, and asset inventory into one place, with an Active Directory sync agent.
 
