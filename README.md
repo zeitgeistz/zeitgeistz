@@ -41,18 +41,6 @@ I administer Windows and Linux servers, work with Active Directory and VMware, a
 ![Prisma](https://img.shields.io/badge/Prisma-38445B?style=flat&logo=prisma&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-8F2730?style=flat&logo=sqlalchemy&logoColor=white)
 
-**Desktop & integrations**<br>
-![Electron](https://img.shields.io/badge/Electron-245E72?style=flat&logo=electron&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-2D6C36?style=flat&logo=ffmpeg&logoColor=white)
-![Chromium Extensions](https://img.shields.io/badge/Chromium%20Extensions-2859A0?style=flat&logo=googlechrome&logoColor=white)
-![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-056D98?style=flat&logo=telegram&logoColor=white)
-
-**Testing & developer tools**<br>
-![Vitest](https://img.shields.io/badge/Vitest-496B20?style=flat&logo=vitest&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-235681?style=flat&logo=pytest&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32A1?style=flat&logo=eslint&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-9C4835?style=flat&logo=claude&logoColor=white)
-
 ## Projects
 
 ### [zeit-claude-skills](https://github.com/zeitgeistz/zeit-claude-skills)
