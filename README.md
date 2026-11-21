@@ -1,4 +1,4 @@
-<img src="assets/zeitgeistz-banner.webp" alt="zeitgeistz" width="100%">
+<img src="assets/zeitgeist-banner.webp" alt="zeitgeist" width="100%">
 
 # Murad
 
