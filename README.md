@@ -41,6 +41,12 @@ I run Windows and Linux servers, manage Active Directory and VMware, and script 
 
 ## Featured projects
 
+### [riskdiff](https://github.com/zeitgeistz/riskdiff)
+
+Ranks the hunks of a git diff by risk, so you review AI-written changes riskiest first. Zero dependencies.
+
+`Node.js` · `JavaScript` · `CLI` · `Code review`
+
 ### [zeit-claude-skills](https://github.com/zeitgeistz/zeit-claude-skills)
 
 Claude Code skills with a shared `/zeit:` command prefix. They run project checks, review code, audit security, debug issues, and prepare releases.
@@ -61,18 +67,3 @@ A Chrome and Edge extension that routes new downloads into folders by file type,
 
 <br>
 
----
-
-<div align="center">
-
-<br>
-
-**[Browse all repositories →](https://github.com/zeitgeistz?tab=repositories)**
-
-<br>
-
-**[LinkedIn](https://az.linkedin.com/in/murad-kamilli-6997b7389)**
-
-<br>
-
-</div>
