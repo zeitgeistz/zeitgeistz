@@ -6,12 +6,31 @@
 
 I administer Windows and Linux servers, work with Active Directory and VMware, and write PowerShell scripts to automate repeat tasks. I also build web tools for IT support and standalone utilities for everyday work.
 
-## Infrastructure & automation
+## Tech stack & tools
 
-- **Systems and identity** — Windows Server, Ubuntu, Active Directory, and Group Policy
-- **Virtualization and networking** — VMware ESXi and vCenter, VLANs, VPNs, and Cisco switching
-- **Backup and recovery** — Veeam
-- **Scripting and deployment** — PowerShell, Docker, and Git
+<p>
+  <strong>Infrastructure</strong><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/windows11/windows11-original.svg" width="18" height="18" align="middle" alt=""> Windows Server &amp; Active Directory &nbsp;·&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/ubuntu/ubuntu-original.svg" width="18" height="18" align="middle" alt=""> Ubuntu &nbsp;·&nbsp;
+  <img src="https://cdn.simpleicons.org/vmware/64748b" width="18" height="18" align="middle" alt=""> VMware &nbsp;·&nbsp;
+  <img src="https://cdn.simpleicons.org/veeam/0b9268" width="18" height="18" align="middle" alt=""> Veeam
+</p>
+
+<p>
+  <strong>Automation &amp; tooling</strong><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/powershell/powershell-original.svg" width="18" height="18" align="middle" alt=""> PowerShell &nbsp;·&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/python/python-original.svg" width="18" height="18" align="middle" alt=""> Python &nbsp;·&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/docker/docker-original.svg" width="18" height="18" align="middle" alt=""> Docker &nbsp;·&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/git/git-original.svg" width="18" height="18" align="middle" alt=""> Git
+</p>
+
+<p>
+  <strong>Web &amp; data</strong><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/typescript/typescript-original.svg" width="18" height="18" align="middle" alt=""> TypeScript &nbsp;·&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/nextjs/nextjs-original.svg" width="18" height="18" align="middle" alt=""> Next.js &nbsp;·&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/postgresql/postgresql-original.svg" width="18" height="18" align="middle" alt=""> PostgreSQL &nbsp;·&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/prisma/prisma-original.svg" width="18" height="18" align="middle" alt=""> Prisma
+</p>
 
 ## Projects
 
