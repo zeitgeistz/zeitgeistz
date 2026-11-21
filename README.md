@@ -70,4 +70,8 @@ A Chrome and Edge extension that routes new downloads into folders by file type,
 
 <br>
 
+**[LinkedIn](https://az.linkedin.com/in/murad-kamilli-6997b7389)**
+
+<br>
+
 </div>
