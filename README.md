@@ -43,7 +43,7 @@ I run Windows and Linux servers, manage Active Directory and VMware, and script 
 
 ### [riskdiff](https://github.com/zeitgeistz/riskdiff)
 
-[![riskdiff terminal demo ranking changed hunks by review risk](https://raw.githubusercontent.com/zeitgeistz/riskdiff/main/docs/demo.gif)](https://github.com/zeitgeistz/riskdiff#readme)
+[![riskdiff reads a Git diff, scores its hunks, and puts the riskiest changes first.](https://raw.githubusercontent.com/zeitgeistz/riskdiff/main/docs/banner.svg)](https://github.com/zeitgeistz/riskdiff#readme)
 
 Ranks the hunks of a git diff by risk, so you review AI-written changes riskiest first. Zero dependencies.
 
@@ -51,7 +51,7 @@ Ranks the hunks of a git diff by risk, so you review AI-written changes riskiest
 
 ### [zeit-skills](https://github.com/zeitgeistz/zeit-skills)
 
-[![zeit-skills command pipeline from test and review to commit and release](https://raw.githubusercontent.com/zeitgeistz/zeit-skills/main/docs/banner.svg)](https://github.com/zeitgeistz/zeit-skills#readme)
+[![zeit-skills gives Claude Code commands for testing, review, security, commits, and releases.](https://raw.githubusercontent.com/zeitgeistz/zeit-skills/main/docs/banner.svg)](https://github.com/zeitgeistz/zeit-skills#readme)
 
 15 Claude Code skills for running project checks, reviewing diffs, auditing security, debugging failures, and preparing releases.
 
@@ -59,7 +59,7 @@ Ranks the hunks of a git diff by risk, so you review AI-written changes riskiest
 
 ### [zeit-checkpoint](https://github.com/zeitgeistz/zeit-checkpoint)
 
-[![zeit-checkpoint timeline showing a rollback to the last verified checkpoint](https://raw.githubusercontent.com/zeitgeistz/zeit-checkpoint/main/docs/timeline-dark.svg)](https://github.com/zeitgeistz/zeit-checkpoint#readme)
+[![zeit-checkpoint captures local snapshots, previews changes, and rolls back to a selected checkpoint.](https://raw.githubusercontent.com/zeitgeistz/zeit-checkpoint/main/docs/banner.svg)](https://github.com/zeitgeistz/zeit-checkpoint#readme)
 
 A Claude Code plugin that saves files before agent edits and takes snapshots before risky shell commands. Preview changes, roll back to a checkpoint, or undo a rollback.
 
