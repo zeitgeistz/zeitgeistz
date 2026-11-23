@@ -47,11 +47,13 @@ Ranks the hunks of a git diff by risk, so you review AI-written changes riskiest
 
 `Node.js` · `JavaScript` · `CLI` · `Code review`
 
-### [zeit-claude-skills](https://github.com/zeitgeistz/zeit-claude-skills)
+### [zeit-skills](https://github.com/zeitgeistz/zeit-skills)
 
-Claude Code skills with a shared `/zeit:` command prefix. They run project checks, review code, audit security, debug issues, and prepare releases.
+[![zeit-skills command pipeline from test and review to commit and release](https://raw.githubusercontent.com/zeitgeistz/zeit-skills/main/docs/banner.svg)](https://github.com/zeitgeistz/zeit-skills#readme)
 
-`Claude Code` · `Skills` · `Security`
+15 Claude Code skills for running project checks, reviewing diffs, auditing security, debugging failures, and preparing releases.
+
+[Command reference](https://github.com/zeitgeistz/zeit-skills#command-reference) · [Workflows](https://github.com/zeitgeistz/zeit-skills#workflows)
 
 ### [zeit-checkpoint](https://github.com/zeitgeistz/zeit-checkpoint)
 
