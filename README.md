@@ -53,6 +53,12 @@ Claude Code skills with a shared `/zeit:` command prefix. They run project check
 
 `Claude Code` · `Skills` · `Security`
 
+### [zeit-checkpoint](https://github.com/zeitgeistz/zeit-checkpoint)
+
+A Claude Code plugin that saves files before agent edits and takes snapshots before risky shell commands. Preview changes, roll back to a checkpoint, or undo a rollback.
+
+`Claude Code` · `Node.js` · `Checkpoints`
+
 ### [ServiceDesk](https://github.com/zeitgeistz/servicedesk)
 
 A multi-tenant IT support app that brings ticket queues, SLA tracking, and asset inventory into one place, with an Active Directory sync agent.
