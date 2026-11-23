@@ -43,9 +43,11 @@ I run Windows and Linux servers, manage Active Directory and VMware, and script 
 
 ### [riskdiff](https://github.com/zeitgeistz/riskdiff)
 
+[![riskdiff terminal demo ranking changed hunks by review risk](https://raw.githubusercontent.com/zeitgeistz/riskdiff/main/docs/demo.gif)](https://github.com/zeitgeistz/riskdiff#readme)
+
 Ranks the hunks of a git diff by risk, so you review AI-written changes riskiest first. Zero dependencies.
 
-`Node.js` · `JavaScript` · `CLI` · `Code review`
+[Quick start](https://github.com/zeitgeistz/riskdiff#-quick-start) · [How scoring works](https://github.com/zeitgeistz/riskdiff#-how-scoring-works)
 
 ### [zeit-skills](https://github.com/zeitgeistz/zeit-skills)
 
@@ -57,9 +59,11 @@ Ranks the hunks of a git diff by risk, so you review AI-written changes riskiest
 
 ### [zeit-checkpoint](https://github.com/zeitgeistz/zeit-checkpoint)
 
+[![zeit-checkpoint timeline showing a rollback to the last verified checkpoint](https://raw.githubusercontent.com/zeitgeistz/zeit-checkpoint/main/docs/timeline-dark.svg)](https://github.com/zeitgeistz/zeit-checkpoint#readme)
+
 A Claude Code plugin that saves files before agent edits and takes snapshots before risky shell commands. Preview changes, roll back to a checkpoint, or undo a rollback.
 
-`Claude Code` · `Node.js` · `Checkpoints`
+[Install](https://github.com/zeitgeistz/zeit-checkpoint#install) · [Timeline pane](https://github.com/zeitgeistz/zeit-checkpoint#the-timeline-pane)
 
 ### [ServiceDesk](https://github.com/zeitgeistz/servicedesk)
 
