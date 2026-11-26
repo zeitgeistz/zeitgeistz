@@ -25,6 +25,16 @@ I run Windows and Linux servers, manage Active Directory and VMware, and script 
 
 <br>
 
+## Contributions
+
+<div align="center">
+
+<img src="profile-3d-contrib/profile-zeitgeist.svg" alt="Animated 3D contribution calendar for zeitgeistz" width="100%">
+
+</div>
+
+<br>
+
 ---
 
 ## Stack
