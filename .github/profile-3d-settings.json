@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-zeitgeist.svg",
+  "backgroundColor": "#0d0d0d",
+  "foregroundColor": "#c9c2b0",
+  "strongColor": "#F5EFE0",
+  "weakColor": "#8f897a",
+  "radarColor": "#d1c6a9",
+  "growingAnimation": true,
+  "contribColors": [
+    "#232323",
+    "#514c40",
+    "#837a64",
+    "#b8ab8a",
+    "#F5EFE0"
+  ]
+}
