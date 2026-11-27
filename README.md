@@ -53,7 +53,7 @@ I run Windows and Linux servers, manage Active Directory and VMware, and script 
 
 ### [riskdiff](https://github.com/zeitgeistz/riskdiff)
 
-[![riskdiff reads a Git diff, scores its hunks, and puts the riskiest changes first.](https://raw.githubusercontent.com/zeitgeistz/riskdiff/main/docs/review-flow.svg)](https://github.com/zeitgeistz/riskdiff#readme)
+[![riskdiff analyzes Git diffs and ranks code changes from high to low risk.](assets/riskdiff-featured.png)](https://github.com/zeitgeistz/riskdiff#readme)
 
 Ranks the hunks of a git diff by risk, so you review AI-written changes riskiest first. Zero dependencies.
 
