@@ -61,7 +61,7 @@ Ranks the hunks of a git diff by risk, so you review AI-written changes riskiest
 
 ### [zeit-skills](https://github.com/zeitgeistz/zeit-skills)
 
-[![How zeit-skills loads instructions, reports findings, and applies documentation fixes.](https://raw.githubusercontent.com/zeitgeistz/zeit-skills/main/docs/how-it-works.svg)](https://github.com/zeitgeistz/zeit-skills#readme)
+[![zeit-skills banner showing a workflow from verification through release](assets/zeit-skills-featured.png)](https://github.com/zeitgeistz/zeit-skills#readme)
 
 15 Claude Code skills for running project checks, reviewing diffs, auditing security, debugging failures, and preparing releases.
 
@@ -69,7 +69,7 @@ Ranks the hunks of a git diff by risk, so you review AI-written changes riskiest
 
 ### [zeit-checkpoint](https://github.com/zeitgeistz/zeit-checkpoint)
 
-[![How zeit-checkpoint previews a rollback, confirms files, saves an undo point, and restores them.](https://raw.githubusercontent.com/zeitgeistz/zeit-checkpoint/main/docs/rollback-dark.svg)](https://github.com/zeitgeistz/zeit-checkpoint#readme)
+[![zeit-checkpoint banner showing a checkpoint timeline and rollback](assets/zeit-checkpoint-featured.png)](https://github.com/zeitgeistz/zeit-checkpoint#readme)
 
 A Claude Code plugin that saves files before agent edits and takes snapshots before risky shell commands. Preview changes, roll back to a checkpoint, or undo a rollback.
 
